@@ -10,3 +10,26 @@
     padding-right: 30px;
 
 }
+
+#review-box {
+    border: 1px none solid;
+    height: 634px;
+    width: 617px;
+}
+
+
+/* responsive design*/
+
+
+/* mobile*/
+
+@media (min-width: 576px) {
+
+    .services-container {
+
+        display: flex;
+        display: block;
+    }
+
+
+}
